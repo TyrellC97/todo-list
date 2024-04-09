@@ -1,0 +1,28 @@
+.btn {
+ width: 50%;
+ height: 25px;
+ background: transparent;
+ border-radius: 5px;
+ margin: 10px;
+ 
+}
+
+#item {
+  display: block;
+  width: 50%;
+  margin: 10px;
+  border-radius: 5px;
+  height: 25px;
+}
+
+label {
+  margin: 10px;
+}
+
+.btn-danger {
+  border-color: red;
+  background-color: rgb(254, 92, 92) ;
+  border-radius: 5px;
+  
+
+}
